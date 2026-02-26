@@ -11,4 +11,4 @@ We are a specialized engineering team based in Trivandrum, dedicated to building
 
 ### 🔗 Connect With Us
 - 🌐 [Visit Website](https://zybo.com)
-- 📧 [Contact Us](mailto:hello@zybo.com)
+- 📧 [Contact Us](info@zybotechlab.com)
